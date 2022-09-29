@@ -1,6 +1,8 @@
 <nav class="navbar navbar-dark bg-danger fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="#">Caesar Chiper-Moh.Agung N</a>
+        <a class="navbar-brand" href="#">
+            <img src="logo.png" width="80px" alt="">
+        Moh.Agung N</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar"
             aria-controls="offcanvasDarkNavbar">
             <span class="navbar-toggler-icon"></span>

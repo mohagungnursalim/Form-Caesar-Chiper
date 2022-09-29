@@ -19,7 +19,7 @@ if (isset($_POST['submit'])) {
 
     }else{
         ?>
-        Silahkan isi terlebih dahulu!
+        Silahkan isi field terlebih dahulu!
         <?php
     }
 }

@@ -13,7 +13,7 @@
 <body>
     <?php include 'navbar.php'; ?>
    
-    <br><br>
+    <br><br><br>
 
 
     <div class="container mt-5">
@@ -31,7 +31,7 @@
                     </div>
                     <div class="mb-2">
                         <label for="exampleFormControlTextarea1" class="form-label">Hasil:</label>
-                        <textarea disabled class="form-control" id="" rows="3"><?php include 'encrypt.php'; ?></textarea>
+                        <textarea disabled class="form-control" id="" rows="4"><?php include 'encrypt.php'; ?></textarea>
                     </div>
                 </div>
             </div>
@@ -48,6 +48,12 @@
             </div>
                 
         </form>   
+
+
+        <div class="text-center text-secondary">
+            <br><br>
+            <p>Dibuat dengan <img src="php.png" width="30px" />,☕ & ❤️ di Asrama Putih,UPGRIS.</p>
+        </div>
     </div>
 
 
